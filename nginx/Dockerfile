@@ -2,7 +2,7 @@
 
 FROM nginx:latest
 
-MAINTAINER Gary A. Stafford <garystafford@rochester.rr.com>
+MAINTAINER Ashish.
 
 ENV REFRESHED_AT 2016-11-06
 
