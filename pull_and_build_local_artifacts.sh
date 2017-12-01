@@ -3,7 +3,6 @@
 ########################################################################
 #
 # title:          Pull Latest Build Artifacts Script
-# author:         Gary A. Stafford (https://programmaticponderings.com)
 # url:            https://github.com/ashishkothari13/virtual-vehicles-docker
 # description:    Pull latest build artifacts from virtual-vehicles-demo repo
 #                 and build Dockerfile and YAML templates
