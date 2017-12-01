@@ -3,7 +3,6 @@
 ########################################################################
 #
 # title:          Virtual-Vehicles Project Integration Tests
-# author:         Gary A. Stafford (https://programmaticponderings.com)
 # url:            https://github.com/ashishkothari13/virtual-vehicles-docker
 # description:    Performs integration tests on the Virtual-Vehicles
 #                 microservices
